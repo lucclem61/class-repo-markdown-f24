@@ -1,2 +1,27 @@
-# class-repo-markdown-f24
- practice repo that we are using to 
+# This is a Heading 1
+## This is a Heading 2
+### This is a Heading 3
+
+
+*This text is italic*
+
+
+**This text is bold**
+
+
+This is regular text
+
+Unordered List
+- List Item 1
+- List Item 2
+
+
+Ordered List:
+1. First Item
+2. Second item
+
+This is a link
+[Google](https://www.google.ca)
+
+
+![Fender Telecaster](images/tele.jpg)
